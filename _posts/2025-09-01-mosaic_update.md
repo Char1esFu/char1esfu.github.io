@@ -2,12 +2,12 @@
 
 layout: post
 title: Intuitive Multimodal Interactive Task Planning for Robotic Assistance
-date: 2026-03-15 21:55:17
+date: 2025-09-01 03:28:17
 authors: [Xuanhao Song, Cong Fu]
 comments: true
 toc: true
 categories: [Projects]
-tag: [LLM, HRI, intention]
+tag: [LLM, VLM, HRI, intention]
 ---
 
 ### Repository Link: https://github.com/Char1esFu/Mosaic
